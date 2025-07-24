@@ -49,7 +49,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip ed
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone https://github.com/kullaniciadi/staj-news-project.git
+   git clone https://github.com/aylingurel1/staj-news-project.git
    ```
 
 2. **Proje dizinine gidin:**
@@ -149,8 +149,8 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 
 ## İletişim (Contact)
 
-- **Geliştirici:** [Adınız Soyadınız]
-- **GitHub:** [https://github.com/kullaniciadi](https://github.com/kullaniciadi)
+- **Geliştirici:** Aylin Gürel
+- **GitHub:** [https://github.com/aylingurel1](https://github.com/aylingurel1)
 - **LinkedIn:** [LinkedIn Profil Linkiniz]
 - **E-posta:** [your.email@example.com]
 
