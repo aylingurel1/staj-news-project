@@ -8,16 +8,16 @@ Bu proje, kullanıcıların güncel haberlere kolay ve hızlı bir şekilde eri�
 
 ## Özellikler (Features)
 
-- **📰 Anasayfa Haber Akışı** - En güncel haberler ve editör seçimleri
-- **🎯 Kategori Bazlı Filtreleme** - İş, teknoloji, spor, sağlık, bilim, eğlence kategorileri
-- **🔍 Gelişmiş Arama Sistemi** - Haber başlığı, içerik ve açıklamada arama
-- **📱 Responsive Tasarım** - Mobil, tablet ve desktop uyumlu
-- **🎠 Dinamik Haber Slider'ı** - Öne çıkan haberler için otomatik geçişli slider
-- **📄 Sayfalama (Pagination)** - Çok sayıda haberi kolay gezinme
-- **🎨 Modern UI/UX** - Tailwind CSS ile şık ve kullanıcı dostu arayüz
-- **⚡ Hızlı Performans** - Next.js App Router ile optimize edilmiş
-- **🌍 Çoklu Dil Desteği** - Farklı dillerde haber içeriği
-- **📊 Editor's Pick** - Editör tarafından seçilen özel haberler
+- ** Anasayfa Haber Akışı** - En güncel haberler ve editör seçimleri
+- ** Kategori Bazlı Filtreleme** - İş, teknoloji, spor, sağlık, bilim, eğlence kategorileri
+- ** Gelişmiş Arama Sistemi** - Haber başlığı, içerik ve açıklamada arama
+- ** Responsive Tasarım** - Mobil, tablet ve desktop uyumlu
+- ** Dinamik Haber Slider'ı** - Öne çıkan haberler için otomatik geçişli slider
+- ** Sayfalama (Pagination)** - Çok sayıda haberi kolay gezinme
+- ** Modern UI/UX** - Tailwind CSS ile şık ve kullanıcı dostu arayüz
+- ** Hızlı Performans** - Next.js App Router ile optimize edilmiş
+- ** Çoklu Dil Desteği** - Farklı dillerde haber içeriği
+- ** Editor's Pick** - Editör tarafından seçilen özel haberler
 
 ## Kullanılan Teknolojiler (Tech Stack)
 
@@ -177,4 +177,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 - Keyboard navigation desteği
 - Screen reader uyumluluğu
 
-**⭐ Eğer bu projeyi beğendiyseniz, lütfen yıldız vermeyi unutmayın!**
+
